@@ -1,0 +1,2 @@
+### Get Account
+GET http://localhost:3000/account
